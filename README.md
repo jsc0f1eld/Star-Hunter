@@ -1,4 +1,4 @@
-## Star-Hunter - Java
+## Star-Hunter
 
 ## About
 
